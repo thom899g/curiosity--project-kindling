@@ -1,0 +1,12 @@
+web3==6.15.0
+flashbots==2.0.0
+firebase-admin==6.2.0
+requests==2.31.0
+pandas==2.2.0
+scikit-learn==1.4.0
+flask==3.0.2
+python-telegram-bot==20.7
+numpy==1.24.0
+python-dotenv==1.0.0
+eth-account==0.11.0
+aiohttp==3.9.0
